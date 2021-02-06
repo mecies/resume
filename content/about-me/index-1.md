@@ -1,6 +1,6 @@
 ---
-aboutPageTitle: Maciej Hnat Online Resume - About page
-aboutPageDescription: siema
+aboutPageTitle: Maciej Hnat Portfolio - About page
+aboutPageDescription: I am a Frontend developer looking for remote B2B opportunities! If you wish to find out more about me, read the information on this page.
 aboutPageImage:
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   iaculis ultricies eros, ac iaculis eros maximus nec. Phasellus vitae mi felis.

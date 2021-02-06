@@ -191,7 +191,7 @@ export const DetailsCardDesktop = ({
                   variant="contained"
                   startIcon={<Download size={16} />}
                   target="_blank"
-                  rel="noopener norefferer"
+                  rel="noopener noreferrer"
                 >
                   Download CV
                 </Button>
