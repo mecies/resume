@@ -36,10 +36,10 @@ projects:
       - technologyName: React
       - technologyName: TypeScript
       - technologyName: Next
-      - technologyName: CSS in JS
       - technologyName: REST API
       - technologyName: Jest
       - technologyName: React Testing Library
+      - technologyName: Tailwind
     projectName: Montelearn
 
   - projectLabel: Web app
