@@ -14,7 +14,7 @@ description: >-
   #### I'm a visual person passionate about Frontend Development! 🎨
 
 
-  #### Below Find some interesting facts about me:
+  #### Below find some interesting facts about me:
 
 
   * ##### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
