@@ -8,22 +8,22 @@ description: >-
   ## Hi there, I'm Maciej
 
 
-  #### A self-taught remote React & Vue developer based in Wrocław, Poland. 
+  ### A self-taught remote React & Vue developer based in Wrocław, Poland.
 
 
-  #### I'm a visual person passionate about Frontend Development! 🎨
+  ### I'm a visual person passionate about Frontend Development! 🎨
 
 
-  #### Below find some interesting facts about me:
+  ### Below find some interesting facts about me:
 
 
-  * ##### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
+  * #### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
 
-  * ##### 🌱 I’m currently learning everything and every day. 🤪
+  * #### 🌱 I’m currently learning everything and every day. 🤪
 
-  * ##### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
+  * #### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
 
-  * ##### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+  * #### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
 socialMedia:
   technologies:
     - technologyName: HTML
