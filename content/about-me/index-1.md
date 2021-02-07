@@ -5,19 +5,22 @@ aboutPageDescription: I am a Frontend developer looking for remote B2B
   this page.
 aboutPageImage: null
 description: >-
-  # Hi there, I'm Maciej
+  ## Hi there, I'm Maciej
 
 
-  ## [](https://github.com/mecies#im-a-remote-react--vue-developer-based-in-wroc%C5%82aw)I'm a remote React & Vue developer based in Wrocław!
+  ### [](https://github.com/mecies#im-a-remote-react--vue-developer-based-in-wroc%C5%82aw)I'm a remote React & Vue developer based in Wrocław!
 
 
-  * 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
+  #### A self-taught remote React & Vue developer based in Wrocław, Poland. I'm a visual person passionate about Frontend Development! 🎨
 
-  * 🌱 I’m currently learning everything and every day. 🤪
 
-  * 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
+  * ##### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
 
-  * ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+  * ##### 🌱 I’m currently learning everything and every day. 🤪
+
+  * ##### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
+
+  * ##### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
 socialMedia:
   technologies:
     - technologyName: HTML
