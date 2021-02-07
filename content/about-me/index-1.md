@@ -1,5 +1,5 @@
 ---
-aboutPageTitle: Maciej Hnat Portfolio - About page
+aboutPageTitle: Maciej Hnat - About page
 aboutPageDescription: I am a Frontend developer looking for remote B2B opportunities! If you wish to find out more about me, read the information on this page.
 aboutPageImage:
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce

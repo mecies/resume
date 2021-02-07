@@ -1,5 +1,5 @@
 ---
-portfolioPageTitle: Maciej Hnat Portfolio - Portfolio page
+portfolioPageTitle: Maciej Hnat - Portfolio page
 portfolioPageDescription: I am a Frontend developer looking for remote B2B opportunities! Visit the website to see a portfolio of my projects and how I grew as a developer throughout the years.
 portfolioPageImage: profile.jpg
 projects:
@@ -24,7 +24,7 @@ projects:
 
   - projectLabel: Web app
     projectPreviewImage: elearning.png
-    projectDescription: Montelearn is a backend API that developers can use to build a custom e-learning platform. Its main focus is on creating interactive lessons and tests, suitable for every education level, science, or topic.
+    projectDescription: Montelearn is a backend API that developers can use to build a custom e-learning platform. Its main focus is on creating interactive lessons and tests, suitable for every education level, science, or topic. 📕
     projectRole: I developed the frontend side of the application. Landing for marketing purposes, admin pannel for creating tests, and example implementation of the tests available open source.
     projectPreviewNote: Web application for elearning platform.
     projectApp: https://montelearn.monterail.com/
@@ -45,7 +45,7 @@ projects:
   - projectLabel: Web app
     projectCode: https://github.com/mecies/weather-app
     projectPreviewImage: weather-app.png
-    projectDescription: One of my first projects written with HTML, CSS, and JavaScript. It was a project that I did when I participated in CodersCamp - online coding bootcamp.
+    projectDescription: One of my first projects written with HTML, CSS, and JavaScript. It was a project that I did when I participated in CodersCamp - online coding bootcamp. ☁️
     projectRole: I designed and coded this little app. Coding included the visuals and integration with Geolocation API.
     projectPreviewNote: Vanilla JavaScript  weather web application.
     projectApp: https://mecies.github.io/weather-app/
@@ -61,7 +61,7 @@ projects:
 
   - projectLabel: Web app
     projectPreviewImage: native-speaker.png
-    projectDescription: Web application written with HAML, LESS, JavaScript and Ruby on Rails. Firstly I prepared designs in Figma and after they were approved, I implemented them on the existing Rails app.
+    projectDescription: Web application written with HAML, LESS, JavaScript and Ruby on Rails. Firstly I prepared designs in Figma and after they were approved, I implemented them on the existing Rails app. 🗣️
     projectRole: I designed and developed the frontend of this application.
     projectPreviewNote: Web application for finding a Native Speaker.
     projectApp: https://nativespeaker.com.pl/
@@ -77,25 +77,9 @@ projects:
       - technologyName: Google Analytics
     projectName: NativeSpeaker
 
-  - projectLabel: Static website
-    projectCode: https://github.com/mecies/Equarium
-    projectPreviewImage: equarium.png
-    projectDescription: A website created for Student Organisation's project at my university. Written with obvious (at that time) HTML, CSS, JavaScript + Webpack & Babel. Unfortunately, the project is long gone and live preview version is not available, but it still exists on GitHub.
-    projectRole: Coding the visuals of the website with HTML, CSS, JavaScript. Additionally I did configure the project and did Mailchimp integration.
-    projectPreviewNote: Static Website for Student Organisation's at my university.
-    projectStartDate: 2019-02-07T10:45:41.756Z
-    projectFinishDate: 2019-05-23T10:45:41.772Z
-    projectTechnologies:
-      - technologyName: HTML
-      - technologyName: CSS
-      - technologyName: JavaScript
-      - technologyName: Mailchimp
-      - technologyName: Webpack + Babel
-    projectName: Equarium
-
   - projectLabel: Web app
     projectPreviewImage: legacy-portfolio.png
-    projectDescription: My first portfolio website designed with Figma and developed with React.
+    projectDescription: My first portfolio website designed with Figma and developed with React. 👤
     projectRole: I designed and developed the project, this was my first React project and I wanted to create a portfolio at that time.
     projectPreviewNote: Web application built to learn React and create a first portfolio website for myself.
     projectApp: https://mecies.github.io/me/
@@ -107,4 +91,20 @@ projects:
       - technologyName: CSS
       - technologyName: JavaScript
     projectName: First portfolio
+
+  - projectLabel: Static website
+    projectCode: https://github.com/mecies/Equarium
+    projectPreviewImage: equarium.png
+    projectDescription: Website created for Student Organisation's project at my university. Written with HTML, CSS, JavaScript + Webpack & Babel. 🏙️
+    projectRole: Coding the visuals of the website with HTML, CSS, JavaScript. Additionally I did configure the project and did Mailchimp integration.
+    projectPreviewNote: Static Website for Student Organisation's at my university.
+    projectStartDate: 2019-02-07T10:45:41.756Z
+    projectFinishDate: 2019-05-23T10:45:41.772Z
+    projectTechnologies:
+      - technologyName: HTML
+      - technologyName: CSS
+      - technologyName: JavaScript
+      - technologyName: Mailchimp
+      - technologyName: Webpack + Babel
+    projectName: Equarium
 ---

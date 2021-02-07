@@ -1,5 +1,5 @@
 ---
-resumePageTitle: Maciej Hnat Portfolio - Portfolio page
+resumePageTitle: Maciej Hnat - Resume page
 resumePageDescription: I am a Frontend developer looking for remote B2B opportunities! Visit the website to view or download my resume.
 resumePageImage: profile.jpg
 workExperience:
