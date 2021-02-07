@@ -8,10 +8,13 @@ description: >-
   ## Hi there, I'm Maciej
 
 
-  ### [](https://github.com/mecies#im-a-remote-react--vue-developer-based-in-wroc%C5%82aw)I'm a remote React & Vue developer based in Wrocław!
+  #### A self-taught remote React & Vue developer based in Wrocław, Poland. 
 
 
-  #### A self-taught remote React & Vue developer based in Wrocław, Poland. I'm a visual person passionate about Frontend Development! 🎨
+  #### I'm a visual person passionate about Frontend Development! 🎨
+
+
+  #### Below Find some interesting facts about me:
 
 
   * ##### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
