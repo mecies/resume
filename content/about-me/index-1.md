@@ -1,19 +1,23 @@
 ---
 aboutPageTitle: Maciej Hnat - About page
-aboutPageDescription: I am a Frontend developer looking for remote B2B opportunities! If you wish to find out more about me, read the information on this page.
-aboutPageImage:
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-  iaculis ultricies eros, ac iaculis eros maximus nec. Phasellus vitae mi felis.
-  Curabitur iaculis nunc laoreet eleifend tincidunt. Aliquam nec lectus varius,
-  mattis sapien nec, tristique elit. Suspendisse id sem sit amet mi tempus
-  fermentum. Duis non metus nec nisl convallis efficitur. Donec condimentum
-  neque rhoncus congue volutpat. Maecenas scelerisque varius ornare. Morbi
-  egestas rutrum mattis. In pulvinar imperdiet tellus vel laoreet. Etiam ac
-  sodales nulla. Nulla sit amet enim ipsum. Nulla pharetra turpis tempus
-  venenatis sollicitudin. Nunc lacinia rhoncus leo, non consectetur velit tempus
-  sed. Praesent euismod nibh ut massa congue, at condimentum justo egestas.
-  Etiam accumsan felis non ipsum vulputate gravida. Etiam elementum vitae nisl a
-  aliquam.
+aboutPageDescription: I am a Frontend developer looking for remote B2B
+  opportunities! If you wish to find out more about me, read the information on
+  this page.
+aboutPageImage: null
+description: >-
+  # Hi there, I'm Maciej
+
+
+  ## [](https://github.com/mecies#im-a-remote-react--vue-developer-based-in-wroc%C5%82aw)I'm a remote React & Vue developer based in Wrocław!
+
+
+  * 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
+
+  * 🌱 I’m currently learning everything and every day. 🤪
+
+  * 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
+
+  * ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
 socialMedia:
   technologies:
     - technologyName: HTML
