@@ -3,7 +3,7 @@ aboutPageTitle: Maciej Hnat - About page
 aboutPageDescription: I am a Frontend developer looking for remote B2B
   opportunities! If you wish to find out more about me, read the information on
   this page.
-aboutPageImage: null
+aboutPageImage:
 description: >-
   ## Hi there, I'm Maciej
 
@@ -17,7 +17,7 @@ description: >-
   ### Below find some interesting facts about me:
 
 
-  * #### 🔭 I’m currently working at [@Infermedica](https://github.com/infermedica), guiding patients to the right care! 💊
+  * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
 
   * #### 🌱 I’m currently learning everything and every day. 🤪
 

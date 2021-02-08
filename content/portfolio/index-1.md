@@ -1,7 +1,7 @@
 ---
 portfolioPageTitle: Maciej Hnat - Portfolio page
 portfolioPageDescription: I am a Frontend developer looking for remote B2B opportunities! Visit the website to see a portfolio of my projects and how I grew as a developer throughout the years.
-portfolioPageImage: profile.jpg
+portfolioPageImage:
 projects:
   - projectLabel: Web app
     projectPreviewImage: coderscard.png

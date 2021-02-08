@@ -1,7 +1,7 @@
 ---
 resumePageTitle: Maciej Hnat - Resume page
 resumePageDescription: I am a Frontend developer looking for remote B2B opportunities! Visit the website to view or download my resume.
-resumePageImage: profile.jpg
+resumePageImage:
 workExperience:
   - startJobDate: 2020-10-02T20:06:48.583Z
     finishJobDate: 2021-02-01T20:06:48.592Z
