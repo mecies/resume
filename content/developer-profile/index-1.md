@@ -1,7 +1,7 @@
 ---
 firstName: Maciej
 lastName: Hnat
-avatar: profile.jpg
+avatar: developer-profile.jpg
 position: Frontend Developer
 phone: "+48500767393"
 email: maciek.hnat@gmail.com
