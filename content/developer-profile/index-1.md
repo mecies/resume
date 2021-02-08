@@ -8,7 +8,7 @@ email: maciek.hnat@gmail.com
 city: Wrocław
 country: Poland
 isFreelancer: true
-cv: https://drive.google.com/file/d/10orgbN3DIizm8talXoL918LXw3qS-5c-/view?usp=sharing
+cv: https://drive.google.com/file/d/1tBngD_qIv-6-gHrxdcQTkJU_FOCeGIl_/view?usp=sharing
 socialMedia:
   github: https://github.com/mecies
   instagram: https://www.instagram.com/xmasiek/?hl=en
