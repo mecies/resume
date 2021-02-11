@@ -60,7 +60,7 @@ projects:
     projectName: Weather app
 
   - projectLabel: Web app
-    projectPreviewImage: native-speaker.png
+    projectPreviewImage: native-speaker.jpg
     projectDescription: Web application written with HAML, LESS, JavaScript and Ruby on Rails. Firstly I prepared designs in Figma and after they were approved, I implemented them on the existing Rails app. 🗣️
     projectRole: I designed and developed the frontend of this application.
     projectPreviewNote: Web application for finding a Native Speaker.
