@@ -1,5 +1,35 @@
-<h3 align="center">
-Navigate to <a href="https://github.com/CodersCrew/CodersCard/tree/master/docs/setup-guide.md" target="_blank">setup docs</a> to find out how to setup your own portfolio website with CodersCard!
+<h1>
+Portfolio website
+</h1>
+
+<h2>
+Maciej Hnat | Frontend Developer
+</h2>
+
+<h3>
+Check out my portfolio under <a href="https://maciejhnat.netlify.app/" target="_blank">this link</a>.
 </h3>
 
-![CodersCard heading image](https://repository-images.githubusercontent.com/278138749/5af4b280-f5f5-11ea-86b5-5cd6206e0337 "CodersCard heading image")
+![Website preview image](/images/page_preview.png "Portfolio preview")
+
+<h3>
+Technologies used:
+</h3>
+
+- TypeScript
+- React
+- MaterialUI
+- Gatsby
+- Netlify CMS
+- Github OAuth
+- YAML
+- Storybook
+
+<h3>
+This project was created with <a href="https://github.com/CodersCrew/CodersCard" target="_blank">CodersCard</a>.
+</h3>
+
+<h3>
+CodesCard is a project in which I was one of the <a href="https://github.com/CodersCrew/CodersCard/graphs/contributors" target="_blank">top contributors</a>, I recommend you check it out too!
+</h3>
+

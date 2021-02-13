@@ -20,6 +20,7 @@ projects:
       - technologyName: TypeScript
       - technologyName: Netlify CMS
       - technologyName: GitHub OAuth app
+      - technologyName: YAML
     projectName: CodersCard
 
   - projectLabel: Web app
