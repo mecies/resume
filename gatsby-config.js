@@ -53,5 +53,13 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          'G-V2HFS0B3MG', // Google Analytics / GA
+        ],
+      },
+    },
   ],
 };
