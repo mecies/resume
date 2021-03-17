@@ -1,8 +1,18 @@
+const {
+  NODE_ENV,
+  URL: NETLIFY_SITE_URL = 'http://maciejhnat.netlify.app/',
+  DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
+  CONTEXT: NETLIFY_ENV = NODE_ENV,
+} = process.env;
+const isNetlifyProduction = NETLIFY_ENV === 'production';
+const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL;
+
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Maciej Hnat Frontend Developer`,
+    description: `I am a Frontend developer looking for remote B2B opportunities!`,
+    author: `@mecies`,
+    siteUrl,
   },
   plugins: [
     {
@@ -59,6 +69,27 @@ module.exports = {
         trackingIds: [
           'G-V2HFS0B3MG', // Google Analytics / GA
         ],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        resolveEnv: () => NETLIFY_ENV,
+        env: {
+          production: {
+            policy: [{ userAgent: '*' }],
+          },
+          'branch-deploy': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+          'deploy-preview': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+        },
       },
     },
   ],
