@@ -30,6 +30,10 @@ This project was created with <a href="https://github.com/CodersCrew/CodersCard"
 </h3>
 
 <h3>
-CodesCard is a project in which I was one of the <a href="https://github.com/CodersCrew/CodersCard/graphs/contributors" target="_blank">top contributors</a>, I recommend you check it out too!
+CodesCard is a project in which I was one of the <a href="https://github.com/CodersCrew/CodersCard/graphs/contributors" target="_blank">top contributors</a>.
+</h3>
+
+<h3>
+I strongly recommend you check it out too!
 </h3>
 
