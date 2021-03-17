@@ -98,6 +98,11 @@ export const Head = ({ description, title, image, author }: HeadProps) => {
           name: `twitter:description`,
           content: pageDescription,
         },
+        // Google domain verification tag
+        {
+          name: 'google-site-verification',
+          content: 'lsydRdjk3bDPraQTOEg3fV4x_k1M9_C2Re2h3ZiAanI',
+        },
       ]}
     >
       <link rel="icon" type="image/png" sizes="16x16" href={metadata.favicon.publicURL} />
