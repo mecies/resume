@@ -3,7 +3,7 @@ aboutPageTitle: Maciej Hnat - About page
 aboutPageDescription: I am a Frontend developer looking for remote B2B
   opportunities! If you wish to find out more about me, read the information on
   this page.
-aboutPageImage:
+aboutPageImage: null
 description: >-
   ## Hi there, I'm Maciej
 
@@ -31,7 +31,7 @@ socialMedia:
     - technologyName: CSS/SASS/LESS - with BEM
       technologyValue: 5
     - technologyName: JavaScript (ES11)
-      technologyValue: 4
+      technologyValue: 5
     - technologyName: TypeScript
       technologyValue: 4
     - technologyName: React
