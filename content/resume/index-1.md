@@ -5,7 +5,7 @@ resumePageDescription: I am a Frontend developer looking for remote B2B
 resumePageImage: null
 workExperience:
   - startJobDate: 2020-10-02T20:06:48.583Z
-    finishJobDate: 2021-05-30T21:50:00.000Z
+    finishJobDate: 2021-06-24T07:50:55.403Z
     jobTitle: Junior Frontend Developer
     companyName: Infermedica
     jobDescription: "In the company, I worked in two teams. In one team, I was
