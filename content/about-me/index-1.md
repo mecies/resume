@@ -17,7 +17,7 @@ description: >-
   ### Below find some interesting facts about me:
 
 
-  * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
+  * #### 🔭 I’m currently working at [](https://infermedica.com/)[@Swapcard](https://www.swapcard.com/), The Leading All-In-One Virtual & Hybrid Events Platform! 📅
 
   * #### 🌱 I’m currently learning everything and every day. 🤪
 
